@@ -1,2 +1,2 @@
 # majasper
-jaspen maven
+jasper maven
